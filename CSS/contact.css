@@ -220,6 +220,9 @@ body.dark-mode .fa-github {
 
 /* Footer */
 footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   text-align: center;
   padding: 1.5rem;
   margin-top: 2rem;

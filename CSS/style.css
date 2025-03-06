@@ -433,6 +433,7 @@ footer {
   border-top: 1px solid #e5e7eb;
   padding: 3rem 2rem 1rem;
   transition: background-color 0.3s;
+  bottom: fixed;
 }
 
 body.dark-mode footer {
